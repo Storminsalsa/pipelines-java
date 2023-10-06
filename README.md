@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/normancummins/java-pipeline-lab/_apis/build/status%2FStorminsalsa.pipelines-java?branchName=main)](https://dev.azure.com/normancummins/java-pipeline-lab/_build/latest?definitionId=9&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
